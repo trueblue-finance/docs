@@ -1,2 +1,2 @@
-# Pakistan Dinar
-Pak Dinar (PKD) is a stable coin pegged to the Pakistan rupee
+# True Blue Stablecoin
+True Blue(TBlue) is a stable coin pegged to the CPI.

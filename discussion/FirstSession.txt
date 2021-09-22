@@ -1,0 +1,26 @@
+A buyer of Blue coin 100 @ 1.04  Dai ( 4% swap rate/ expected inflation) (4% over collateral)
+--system got 104 Dai 
+B buyer of RC 100 @ 1.1 (10% collateral)
+--sytem got 110 Dai
+
+1)after 1 year (Actual Inflation is 7%)
+
+A redeme Dai 1.07 @ 100 
+-- system need to return 107 Dai to A
+B redeme Dai (100*0.97 + 10)110-3 = 107
+-- system need to return 107 Dai to B
+
+
+2)after 1 year inflation 3%
+A redeme Dai 1.03 @ 100 
+-- system need to return 103 Dai to A
+B redeme Dai 110+1 = 111
+-- system need to return 111 Dai to B
+
+
+Reserve pool will be invested/Yield farming (214 Dai) on Compound or any other platform
+  
+Problem
+1. Loss to Blue coin owner
+2. if reserve coin buyer is not avaliable
+3. over investement (104 dai)
